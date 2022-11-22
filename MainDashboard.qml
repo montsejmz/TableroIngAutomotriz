@@ -7,5 +7,13 @@ Item {
         id: dashBackground
         source: "images/TableroMontse.png"
         anchors.centerIn: parent
+
+        Text{
+            text: "Mensaje de CAN"
+            anchors.centerIn:parent
+            color: "white"
+        }
     }
+
+
 }

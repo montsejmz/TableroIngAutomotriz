@@ -6,6 +6,8 @@ Window {
     height: 480
     visible: true
     title: qsTr("Tablero")
+    color: "#202D3D"
+
 
     MainDashboard{
         anchors.centerIn: parent
