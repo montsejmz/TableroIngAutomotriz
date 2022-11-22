@@ -1,5 +1,7 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>MainDashboard.qml</file>
+        <file>images/TableroMontse.png</file>
     </qresource>
 </RCC>
